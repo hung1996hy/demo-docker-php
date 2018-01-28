@@ -2,7 +2,7 @@ FROM ubuntu
 
 MAINTAINER Rooney <hung1996hy@gmail.com>
 
-# start
+# config cmd
 
 RUN apt-get update -y && \
 	apt-get install -y \
